@@ -6,10 +6,10 @@ class Greet extends Component {
         return (
             
             <div>
-            
-            <h1> hello world {this.props.name}</h1>
+            <h1 className='aa'> hello  {this.props.name}</h1>
             <h3>  my hobby {this.props.hobby}</h3>
             </div>
+         
         )
     }
 }

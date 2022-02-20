@@ -1,17 +1,17 @@
 import React from "react";
 
-//  function Fun() {
+//  function Func_comp_ex() {
 //     return (
 //         // <div>
 //             Hello functional component
 //         </div>
 //     )
 //  }
- const Tithi = () => {
+ const FuncCompEx = () => {
   return(<div>
-    <div>hi tithi</div>
+    <div><h2>hi tithi</h2></div>
   </div>)
   
 };
-export default Tithi
+export default FuncCompEx
 

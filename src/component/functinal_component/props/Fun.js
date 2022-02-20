@@ -9,7 +9,7 @@ import React from "react";
 //  }
 export const Fun = (props) => {
   return(<div>
-    <div>hello functional component {props.comment}</div>
+    <h2>hello functional component {props.comment}</h2>
    
   </div>)
   
