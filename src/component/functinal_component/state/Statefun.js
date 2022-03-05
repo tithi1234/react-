@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 
 function Statefun() {
+  //Destructuring
+  
   const [message, setMessage] = useState("Hello World");
   const handleClick = () => {
     setMessage("hI ALL");

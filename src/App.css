@@ -36,6 +36,18 @@
    background-color: rgba(0, 0, 255, 0.253);
    margin: 80px;
 }
+.des{
+
+  color: black;
+  background-color: aqua;
+  padding-bottom: 20px;
+}
+.bind{
+
+  color: black;
+  background-color: rgb(16, 158, 75);
+  padding: 20px;
+}
 .App .fu{
   text-align: center;
   margin-left: 80px;
