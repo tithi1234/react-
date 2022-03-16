@@ -5,6 +5,7 @@ class Greet extends Component {
         console.log(this.props);
         return (
             
+            
             <div>
             <h1 className='aa'> hello  {this.props.name}</h1>
             <h3>  my hobby {this.props.hobby}</h3>
